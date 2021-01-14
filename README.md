@@ -2,7 +2,7 @@
 
 Hello everyone!
 
-In this data science project, I am gonna try to analyze and cluster mall customer from Mall Customer Segmentation dataset [1]. 
+In this data science project, I am gonna try to analyze and cluster mall customer from Mall Customer Segmentation dataset (https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python). 
 
 Data Information:
 
